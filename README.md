@@ -2,7 +2,7 @@
 
 
 
-                  ![download (1)](https://github.com/user-attachments/assets/a0819dbc-4403-48cf-907e-29b19abfa320)
+         
 
 
 #  OS1 — The Operating System for the Age of Intelligence
