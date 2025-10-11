@@ -2,9 +2,7 @@
 
 
 
-                     ![b0684c4f-273d-4bfb-aafc-92aefd910fce](https://github.com/user-attachments/assets/80dd45c8-ae3d-423d-a5f1-2dfb13bec807)
-
-
+                  ![download (1)](https://github.com/user-attachments/assets/a0819dbc-4403-48cf-907e-29b19abfa320)
 
 
 #  OS1 — The Operating System for the Age of Intelligence
