@@ -1,7 +1,8 @@
 
 
-<img width="500" height="355" alt="image" src="https://github.com/user-attachments/assets/0eb24d2a-a820-4103-89a9-cd6031d8db2b" />
 
+
+                            ![insatllation os](https://github.com/user-attachments/assets/a0a1aadf-96ba-4a8b-a881-fe9944f29da0)
 
 
 
