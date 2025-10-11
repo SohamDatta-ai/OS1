@@ -2,7 +2,8 @@
 
 
 
-                            ![insatllation os](https://github.com/user-attachments/assets/a0a1aadf-96ba-4a8b-a881-fe9944f29da0)
+                          ![insatllation os](https://github.com/user-attachments/assets/7c1c1c43-877c-4460-a581-30c3d5c672c4)
+
 
 
 
