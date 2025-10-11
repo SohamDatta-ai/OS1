@@ -2,14 +2,12 @@
 
 
 
-                   ![os1](https://github.com/user-attachments/assets/f63db661-1faf-4fc9-948b-177f70811410)
+                     ![b0684c4f-273d-4bfb-aafc-92aefd910fce](https://github.com/user-attachments/assets/80dd45c8-ae3d-423d-a5f1-2dfb13bec807)
 
 
 
 
-
-
-# 🧠 OS1 — The Operating System for the Age of Intelligence
+#  OS1 — The Operating System for the Age of Intelligence
 
 > *“If operating systems were built for memory and context instead of files and processes — this is where it would begin.”*
 
@@ -20,7 +18,7 @@ This repository marks the **foundation of that exploration** — a place to docu
 
 ---
 
-## 🌌 What is OS1?
+##  What is OS1?
 
 OS1 stands for **Operating System 1** — a first step toward a unified memory layer for AI-driven ecosystems.
 It’s designed to act as a **cognitive substrate** between humans and machines, where every interaction becomes part of a persistent, evolving memory network.
