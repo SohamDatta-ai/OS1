@@ -2,7 +2,8 @@
 
 
 
-                        ![os1](https://github.com/user-attachments/assets/cd54b0c6-9749-465d-8e59-54a99a3c4faa)
+                   ![os1](https://github.com/user-attachments/assets/f63db661-1faf-4fc9-948b-177f70811410)
+
 
 
 
