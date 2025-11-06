@@ -1,9 +1,4 @@
-
-
-                                                 ![os1](https://github.com/user-attachments/assets/f869e5bd-0a73-4dbc-b353-c7b8c3d2eea8)
-
-
-         
+                                                                ![os1](https://github.com/user-attachments/assets/d9672a71-f891-449f-92ca-3eec74517bd6)
 
 
 #  OS1 — The Operating System for the Age of Intelligence
